@@ -9,5 +9,4 @@ password: asterisk
 ```
 Terima Kasih
 ## :camera_flash: Screenshots
-<img src="/News_API/results/screenshot1.jpg" width="260">&emsp;<img src="/News_API/results/screenshot2.jpg" width="260">
-<img src="/News_API/results/screenshot3.jpg" width="260">&emsp;<img src="/News_API/results/screenshot4.jpg" width="260">
+![alt text](https://github.com/Afatyu/News_API_/blob/Master/results/screenshot1.jpg?raw=true)
