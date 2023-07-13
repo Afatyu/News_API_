@@ -10,3 +10,6 @@ password: asterisk
 Terima Kasih
 ## :camera_flash: Screenshots
 ![alt text](https://github.com/Afatyu/News_API_/blob/Master/results/screenshot1.jpg?raw=true)
+![alt text](https://github.com/Afatyu/News_API_/blob/Master/results/screenshot2.jpg?raw=true)
+![alt text](https://github.com/Afatyu/News_API_/blob/Master/results/screenshot3.jpg?raw=true)
+![alt text](https://github.com/Afatyu/News_API_/blob/Master/results/screenshot4.jpg?raw=true)
